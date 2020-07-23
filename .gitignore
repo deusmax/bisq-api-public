@@ -6,6 +6,13 @@
 
 # Backup files
 *~
+*.orig
 
 # Undo-tree save-files
 *.~undo-tree
+
+# misc
+README.html
+scratch.txt
+devel.org
+*test*
